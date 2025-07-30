@@ -1,5 +1,5 @@
 import React from "react";
-import { LogoIcon } from "/TreqLogo";
+
 
 const Header = () => {
   return (
