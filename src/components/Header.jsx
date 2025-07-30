@@ -8,7 +8,7 @@ const Header = () => {
         <div className='flex items-center text-white'>
           <LogoIcon className='h-8 w-8 text-cyan-400' />
           <span className='ml-3 text-2xl font-bold tracking-tight'>
-            TREQQ
+            TREQO
           </span>
         </div>
         <nav className='hidden md:flex items-center space-x-8'>
